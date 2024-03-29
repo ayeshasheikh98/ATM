@@ -1,5 +1,6 @@
+#!/usr/bin/env node
+
 import inquirer from "inquirer"
-import Choices from "inquirer/lib/objects/choices.js";
 
 let myBalance = 10000;
 let myPin = 5555;
